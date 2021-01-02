@@ -1,0 +1,13 @@
+C:\Users\Ideapad\Desktop\Alitan\Programación\C#\SchoolApp\School forms App\bin\Debug\School forms App.exe.config
+C:\Users\Ideapad\Desktop\Alitan\Programación\C#\SchoolApp\School forms App\bin\Debug\School forms App.exe
+C:\Users\Ideapad\Desktop\Alitan\Programación\C#\SchoolApp\School forms App\bin\Debug\School forms App.pdb
+C:\Users\Ideapad\Desktop\Alitan\Programación\C#\SchoolApp\School forms App\bin\Debug\SchoolLibrary.dll
+C:\Users\Ideapad\Desktop\Alitan\Programación\C#\SchoolApp\School forms App\bin\Debug\SchoolLibrary.pdb
+C:\Users\Ideapad\Desktop\Alitan\Programación\C#\SchoolApp\School forms App\obj\Debug\School forms App.csprojAssemblyReference.cache
+C:\Users\Ideapad\Desktop\Alitan\Programación\C#\SchoolApp\School forms App\obj\Debug\School_forms_App.Properties.Resources.resources
+C:\Users\Ideapad\Desktop\Alitan\Programación\C#\SchoolApp\School forms App\obj\Debug\School forms App.csproj.GenerateResource.cache
+C:\Users\Ideapad\Desktop\Alitan\Programación\C#\SchoolApp\School forms App\obj\Debug\School forms App.csproj.CoreCompileInputs.cache
+C:\Users\Ideapad\Desktop\Alitan\Programación\C#\SchoolApp\School forms App\obj\Debug\School forms App.csproj.CopyComplete
+C:\Users\Ideapad\Desktop\Alitan\Programación\C#\SchoolApp\School forms App\obj\Debug\School forms App.exe
+C:\Users\Ideapad\Desktop\Alitan\Programación\C#\SchoolApp\School forms App\obj\Debug\School forms App.pdb
+C:\Users\Ideapad\Desktop\Alitan\Programación\C#\SchoolApp\School forms App\obj\Debug\School_forms_App.Form1.resources
